@@ -864,6 +864,24 @@
 						}
 					],
 					"updated": "25-2-2021"
+				},
+				{
+					"prettyName": "stajanie",
+					"icon": "fa-lightbulb-o",
+					"name": "stajanie",
+					"version": "1.0.0",
+					"url": "http://volumio.github.io/volumio-plugins/plugins/volumio/armhf/system_controller/stajanie/stajanie.zip",
+					"license": "ISC",
+					"description": "stajanie",
+					"details": "",
+					"author": "Volumio Team",
+					"screenshots": [
+						{
+							"image": "",
+							"thumb": ""
+						}
+					],
+					"updated": "19-7-2021"
 				}
 			]
 		},
